@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TeamU</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_login">Se connecter</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_duration">La durée totale est invalide</string>
+    <string name="error_invalid_maxcount">Le nombre de sonneries est invalide</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="auth_failed">L\'authentification a échoué</string>
+    <string name="title_player_list">Players</string>
+    <string name="title_player_detail">Player Detail</string>
+    <string name="email">Email</string>
+    <string name="name">Nom</string>
+    <string name="fullname">Nom complet</string>
+    <string name="popup_supp_donnees_profil_title">Supprimer les données</string>
+    <string name="popup_supp_donnees_profil_text">Etes vous sûr de supprimer cet élément ?</string>
+    <string name="popup_supp_donnees_profil_yes">OUI</string>
+    <string name="popup_supp_donnees_profil_no">NON</string>
+    <string name="title_rendezvous_list">Rendezvous</string>
+    <string name="title_rendezvous_detail">Rendezvous Detail</string>
+</resources>
